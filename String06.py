@@ -6,5 +6,4 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    return s.isnumeric()
